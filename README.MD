@@ -12,7 +12,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. 
 
 
-<a href="output\ebook-singleton.pptx" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="output\ebook-singleton.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
